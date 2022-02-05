@@ -1,4 +1,4 @@
-#Readme for Mind The Gap Game
+# README for Mind The Gap Game
 
 Mind the Gap is a GUI based game built on Java using SwingX and JFrame. 
 It is a 2 player game and the game starts by randomly giving the turn to either first or second player.
