@@ -17,6 +17,6 @@ The game continutes unitl one of the players is forced to use a neghbouring tile
 
 <h3>I am currently working on: </h3>
 <p> - Adding a sound track </p>
-- Ability to add more tiles
-- 3 player support
-- Computer Player
+<p>- Ability to add more tiles</p>
+<p>- 3 player support</p>
+<p>- Computer Player</p>
