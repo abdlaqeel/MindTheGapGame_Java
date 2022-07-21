@@ -8,10 +8,10 @@ The first player select a tile and the second player can not select the neighbou
 The game continutes unitl one of the players is forced to use a neghbouring tile.
 
 <h3>To Start the game: </h3>
-1. Download Java <br />
-2. Download the .java files<br />
-3. type in terminal`` javac *.java``
-4. type in terminal `` Java Main``
+1. Download Java 
+2. Download the .java files
+3. type in terminal ``javac *.java``
+4. type in terminal ``Java Main``
 5. Enjoy :)
 
 
