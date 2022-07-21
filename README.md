@@ -9,17 +9,17 @@ The game continutes unitl one of the players is forced to use a neghbouring tile
 
 <h3>To Start the game: </h3>
 1. Download Java <br />
-2. Download the .java files
-3. type in terminal`` javac *.java*``
-4. type in terminal `` Java Main``
+2. Download the .java files<br />
+3. type in terminal`` javac *.java*``<br />
+4. type in terminal `` Java Main``<br />
 5. Enjoy :)
 
 
 <h3>Instructions: </h3>
-1. One of the player gets a random first turn
-2. Select a tile
-3. Avoid neighbouring tiles of the other player
-4. Neighbouring tiles are defined as shown in picture, supposing the blue player took the first turn!
+1. One of the player gets a random first turn<br />
+2. Select a tile<br />
+3. Avoid neighbouring tiles of the other player<br />
+4. Neighbouring tiles are defined as shown in picture, supposing the blue player took the first turn!<br />
 
 
 
