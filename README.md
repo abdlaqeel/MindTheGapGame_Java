@@ -17,10 +17,11 @@ The game continutes unitl one of the players is forced to use a neghbouring tile
 
 
 <h3>Instructions: </h3>
-1. One of the player gets a random first turn<br />
-2. Select a tile<br />
-3. Avoid neighbouring tiles of the other player<br />
-4. Neighbouring tiles are defined as shown in picture, supposing the blue player took the first turn!<br />
+
+1. One of the player gets a random first turn
+2. Select a tile
+3. Avoid neighbouring tiles of the other player
+4. Neighbouring tiles are defined as shown in picture, supposing the blue player took the first turn!
 
 
 
