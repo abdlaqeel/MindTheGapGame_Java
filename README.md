@@ -9,8 +9,8 @@ The game continutes unitl one of the players is forced to use a neghbouring tile
 
 1. Download Java
 2. Download the .java files
-3. type in terminal " javac *.java* "
-4. type in terminal " Java Main "
+3. type in terminal`` javac *.java*``
+4. type in terminal `` Java Main``
 5. Enjoy :)
 
 
