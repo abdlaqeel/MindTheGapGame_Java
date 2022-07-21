@@ -12,3 +12,11 @@ The game continutes unitl one of the players is forced to use a neghbouring tile
 3. type in terminal " javac *.java* "
 4. type in terminal " Java Main "
 5. Enjoy :)
+
+
+
+<h3>I am currently working on: </h3>
+- Adding a sound track
+- Ability to add more tiles
+- 3 player support
+- Computer Player
