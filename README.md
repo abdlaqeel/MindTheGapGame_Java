@@ -10,8 +10,8 @@ The game continutes unitl one of the players is forced to use a neghbouring tile
 <h3>To Start the game: </h3>
 1. Download Java <br />
 2. Download the .java files<br />
-3. type in terminal`` javac *.java*``<br />
-4. type in terminal `` Java Main``<br />
+3. type in terminal`` javac *.java``
+4. type in terminal `` Java Main``
 5. Enjoy :)
 
 
