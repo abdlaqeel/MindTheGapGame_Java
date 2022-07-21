@@ -23,6 +23,7 @@ The game continutes unitl one of the players is forced to use a neghbouring tile
 3. Avoid neighbouring tiles of the other player
 4. Neighbouring tiles are defined as shown in picture, supposing the blue player took the first turn!
 
+<img align="right" alt="Coding" width="400" src="https://github.com/abdlaqeel/MindTheGapGame_Java/blob/main/IMG_FB408D3FE537-1.jpeg"
 
 
 
